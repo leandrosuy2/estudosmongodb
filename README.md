@@ -1,5 +1,7 @@
 <p align="center">
   <img src="github/logo.png" alt="Logo do repositório mongoestudos" width="280" />
+  <br />
+  <a href="https://github.com/leandrosuy2/estudosmongodb"><strong>github.com/leandrosuy2/estudosmongodb</strong></a>
 </p>
 
 # MongoDB — material de estudos (índice)
